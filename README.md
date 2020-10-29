@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gahv2yj022x6qjws/branch/master?svg=true)](https://ci.appveyor.com/project/Berengalina/selenide-homework/branch/master)
